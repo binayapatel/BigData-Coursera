@@ -12,4 +12,4 @@ Q:Check answers that apply when NameNode fails to receive heartbeat from a DataN
 A:
 
 Q:How is data corruption mitigated in HDFS
-A:Data from all replicas is compared for correctness
+B:Data from all replicas is compared for correctness
