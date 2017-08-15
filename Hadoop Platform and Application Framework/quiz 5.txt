@@ -6,10 +6,14 @@ A: dfs.replication
 
 Q:Check answers that apply when replication is lowered
 A: HDFS is less robust
+B:
+D:
 
 
 Q:Check answers that apply when NameNode fails to receive heartbeat from a DataNode
 A:
+C:
+D:
 
 Q:How is data corruption mitigated in HDFS
-A:Data from all replicas is compared for correctness
+C:
